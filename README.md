@@ -374,4 +374,4 @@ Producing structured security assessment reports for each task covering: attack 
 ---
 
 **Author:** Emmanuel Ateji
-**Internship:** ShadowFox Cybersecurity - May 2025 Batch
+**Internship:** ShadowFox Cybersecurity
