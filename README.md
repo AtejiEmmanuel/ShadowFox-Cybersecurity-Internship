@@ -27,7 +27,7 @@
 
 ## About the Internship
 
-This repository documents my technical work completed during the **ShadowFox Cybersecurity Internship** (May 2025 batch). The programme covered practical penetration testing and security assessment tasks across three difficulty levels: Beginner, Intermediate, and Advanced. Each task was documented in a structured security report format covering attack methodology, severity ratings, impact analysis, mitigation steps, and proof-of-concept screenshots.
+This repository documents my technical work completed during the **ShadowFox Cybersecurity Internship**. The programme covered practical penetration testing and security assessment tasks across three difficulty levels: Beginner, Intermediate, and Advanced. Each task was documented in a structured security report format covering attack methodology, severity ratings, impact analysis, mitigation steps, and proof-of-concept screenshots.
 
 The target machine used throughout the beginner-level tasks was the intentionally vulnerable web application at `http://testphp.vulnweb.com/`, maintained by Acunetix as a safe testing environment.
 
